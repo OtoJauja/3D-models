@@ -1,2 +1,2 @@
 # 3D-models
-Repository for my 3d models
+Somewhere to put my 3D models. All were made in Blender 4.0
